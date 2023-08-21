@@ -670,7 +670,14 @@
 
         //home style end
         .detail {
-            background-image: url("./Page/image/bg1.jpg");
+            background-color: #af434348;
+            #more{
+                padding: 2%;
+                margin-bottom: 3%;
+                font-size: 50px;
+                width: 100vw;
+                background-color: #47464671;
+            }
 
             .wrapper {
                 display: flex;
